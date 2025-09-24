@@ -14,7 +14,10 @@ print(s)
 for rs in range(1,10):
     s=2
 print(s)"""
-import random
+"""import random
 help(random)
 #a=random.randint([1,2,3])
-#print(a)
+#print(a)"""
+
+s="linux 是一個開放原始碼的作業系統 \n我很喜歡"
+print(s.split("\n"))
